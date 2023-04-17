@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Clients", "01.Clients", "{4D9864BA-96CA-479A-95B3-F3BF7EC58583}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Repository", "03.Repository", "{FD935641-6536-43C6-9309-38CA04BD6753}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Models", "02.Models", "{FE91273F-E040-4F34-81EC-E35DE04AABE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.UnitOfWork", "04.UnitOfWork", "{3A518052-C442-4F59-9C6B-A2C2F7FE2870}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Services", "05.Services", "{02C1399B-4EB1-4914-A7C8-3B9F08A800DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.DTO", "06.DTO", "{BD1A77A8-755A-478E-814A-8634ECCE4C2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.UnitTest", "07.UnitTest", "{BBCA60AE-171E-4242-AA00-32838EF63473}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D537CA-44F8-4DED-B2B0-192937EC7A55}
+	EndGlobalSection
+EndGlobal
